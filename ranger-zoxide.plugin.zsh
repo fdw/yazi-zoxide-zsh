@@ -1,4 +1,4 @@
-# Add a `y` function to zsh that opens ranger either at the given directory or
+# Add a `y` function to zsh that opens yazi either at the given directory or
 # at the one zoxide suggests
 y() {
   if [ "$1" != "" ]; then
